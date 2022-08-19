@@ -1,0 +1,15 @@
+*{
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 0%;
+  padding: 0%;
+}
+.App {
+  text-align: center;
+ 
+}
+
+#side{
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
